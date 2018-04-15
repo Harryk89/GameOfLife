@@ -1,0 +1,15 @@
+      
+
+        #canvas {
+            z-index: 1;
+            position: absolute;
+            margin top: 45px;
+            margin left: 10px;
+        }
+        #game {
+            z-index: 0;
+            position: absolute;
+            margin top: 45px;
+            margin left: 10px;
+            background: #34d434;;
+        }
